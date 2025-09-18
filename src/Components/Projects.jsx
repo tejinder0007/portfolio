@@ -40,7 +40,7 @@ const projectsData = [
     description: 'My personal portfolio showcasing skills, projects, and contact information. Built with React and Tailwind CSS.',
     imageUrl: '/portfolio.png', 
     liveUrl: '#',
-    githubUrl: '#',
+    githubUrl: 'https://portfolio-tau-seven-i26nq9nhs2.vercel.app/',
   },
 ];
 
