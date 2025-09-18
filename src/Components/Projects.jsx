@@ -15,7 +15,7 @@ const projectsData = [
     title: 'Task Management App',
     description: 'A responsive web application for managing daily tasks, featuring drag-and-drop functionality and progress tracking.',
     imageUrl: 'https://www.meistertask.com/_next/image?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F289344%2F1521x1001%2F61554d4bfc%2Fui-image_project-management.png%3Fv%3D3&w=1920&q=75', // Placeholder image
-    liveUrl: '#',
+    liveUrl: 'https://task-management-lv978nwmx-tejinder0007s-projects.vercel.app/',
     githubUrl: 'https://github.com/tejinder0007/Task_manager',
   },
   {
